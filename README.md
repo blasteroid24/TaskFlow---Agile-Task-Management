@@ -12,10 +12,12 @@ Explore TaskFlow’s clean and intuitive UI!
 ### **Home Page**
 ![TaskFlow Home](./public/images/1.png)
 
-(./public/images/2.png)
+![TaskFlow Home](./public/images/2.png)
 
+### **User Dashboard**
 ![User Dashboard](./public/images/3.png)
 
+### **Task Board**
 ![Task Board](./public/images/4.png)
 
 ## ✨ Features
