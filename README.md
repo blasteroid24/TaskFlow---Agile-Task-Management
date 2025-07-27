@@ -60,11 +60,10 @@ Explore TaskFlow’s clean and intuitive UI!
     npm install
 
 4. **Setup Environment Variables:**  
-   NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=<your-clerk-publishable-key>
-   CLERK_SECRET_KEY=<your-clerk-secret-key>
-
-   NEXT_PUBLIC_SUPABASE_URL=<your-supabase-url>
-   NEXT_PUBLIC_SUPABASE_ANON_KEY=<your-supabase-anon-key>
+   - NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=<your-clerk-publishable-key>
+   - CLERK_SECRET_KEY=<your-clerk-secret-key>
+   - NEXT_PUBLIC_SUPABASE_URL=<your-supabase-url>
+   - NEXT_PUBLIC_SUPABASE_ANON_KEY=<your-supabase-anon-key>
 
 5. **Run project and start Development**
     ```bash
